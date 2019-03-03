@@ -26,3 +26,8 @@ Run the project with the following command:
 where `<path-to-dictionary>` is a path to a Windows-1257 encoded dictionary and
 `<word>` is an UTF-8 encoded word. The program is designed to find anagrams from
 the dictionary found on http://www.eki.ee/tarkvara/wordlist/lemmad.zip.
+
+## Prebuilt executable
+
+The prebuilt executable for is available in [bin](./bin) directory. The prebuilt
+executable is tested on Ubuntu 18.04, Ubuntu 16.04 and Debian Stretch.
